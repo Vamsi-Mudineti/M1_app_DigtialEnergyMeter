@@ -1,5 +1,5 @@
 PROJ_NAME = EV
-SRC = main.c inc\Delay.h
+SRC = main.c inc\Delay.h src\Delay.c
 
 #To check if the OS is windows or linux and set the executable file extension and delete command accordingly
 ifdef OS
