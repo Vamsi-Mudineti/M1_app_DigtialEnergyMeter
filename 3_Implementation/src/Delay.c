@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include <time.h>
 
-#include "Delay.h"
+#include "/inc/Delay.h"
 
 int delay(int number_of_seconds)
 {
