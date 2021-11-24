@@ -5,10 +5,8 @@ PROJECT_NAME = EVCharging_Station
 BUILD = build
 
 # All source code files
-SRC = main.c src/Delay.c
+SRC = main.c src/Delay.c inc/Delay.h
 
-# All include folders with header files
-INC	= inc/Delay.h
 
 # Project Output name
 PROJECT_OUTPUT = $(BUILD)/$(PROJECT_NAME).out
