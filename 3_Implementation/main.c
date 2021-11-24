@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "Delay.h"
-#include "Delay.c"
+#include "/in/Delay.h"
+#include "/src/Delay.c"
 //#include<REG52.h>
 int delay();
 int Charging_step1();
