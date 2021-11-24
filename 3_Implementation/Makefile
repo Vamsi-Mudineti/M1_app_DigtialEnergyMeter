@@ -8,18 +8,8 @@ BUILD = build
 SRC = main.c\
 src/Delay.c
 
-/*# All test source files
-TEST_SRC = src/bill_operations.c\
-test/test_bill_operations.c\
-unity/unity.c\
-
-TEST_OUTPUT = $(BUILD)/Test_$(PROJECT_NAME).out
-
 # All include folders with header files
 INC	= -Iinc\
--Iunity\
-
-*/
 
 # Project Output name
 PROJECT_OUTPUT = $(BUILD)/$(PROJECT_NAME).out
