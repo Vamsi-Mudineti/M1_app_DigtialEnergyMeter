@@ -9,7 +9,7 @@ SRC = main.c\
 src/Delay.c
 
 # All include folders with header files
-INC	= -Iinc\
+INC	= inc/Delay.h
 
 # Project Output name
 PROJECT_OUTPUT = $(BUILD)/$(PROJECT_NAME).out
