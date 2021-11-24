@@ -1,4 +1,4 @@
-ame: Build Windows
+name: Build Windows
 
 on:
   push:
